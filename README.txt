@@ -1,9 +1,3 @@
-Nicole Cassara
-CSC 172-Lab 4
-Ncassara
-32274790
-ncassara@u.rochester.edu
-
 James Choe
 CSC 172-Lab 2
 hchoe4
